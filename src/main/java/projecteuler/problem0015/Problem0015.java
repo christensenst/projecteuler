@@ -1,4 +1,4 @@
-package projecteuler.Problem0015;
+package projecteuler.problem0015;
 
 /**
  * Starting in the top left corner of a 2×2 grid, and only being able to move to the
